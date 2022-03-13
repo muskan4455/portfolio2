@@ -164,29 +164,7 @@ font-weight: 500;
 
 }
 
-.about .h::before
-{
-    content:"";
-    position: absolute;
-    bottom:-150px;
-    left:50%;
-    width:180px;
-    height:7px;
-    background:#111;
-    transform: translate(-50%);
-}
-.about .h::after
-{
-    content:"who i am";
-    position: absolute;
-    bottom:-150px;
-    left:50%;
-    font-size: 20px;
-    color: crimson;
-    padding: 5px;
-    background:#fff;
-    transform: translate(-50%);
-}
+
 .image2
 { padding: 3px; 
     margin: 10px;
