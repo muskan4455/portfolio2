@@ -168,10 +168,10 @@ font-weight: 500;
 {
     content:"";
     position: absolute;
-    bottom:-50px;
+    bottom:-150px;
     left:50%;
     width:180px;
-    height:3px;
+    height:7px;
     background:#111;
     transform: translate(-50%);
 }
@@ -179,7 +179,7 @@ font-weight: 500;
 {
     content:"who i am";
     position: absolute;
-    bottom:-50px;
+    bottom:-150px;
     left:50%;
     font-size: 20px;
     color: crimson;
